@@ -39,8 +39,7 @@ Download includes a Proton friendly version of [UE4SS](https://github.com/UE4SS-
 
 ☕ If you've enjoyed or gotten usage from my work *(keep in mind, I do a majority of this completely for free on my spare time with no donations or compensation)*, please consider supporting my Ko-Fi below:
 <br><br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kingkrouch)
-Also, if you can, please spare a bit to support [Nic](https://github.com/NicNamed)'s Ko-Fi below:
-<br><br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nic_named)
+<br>Also, if you can, please spare a bit to support [Nic](https://github.com/NicNamed)'s [Ko-Fi](https://ko-fi.com/nic_named). Reason I can't show a similar embed, is because people might get confused over there being two big red "Support Me on Ko-Fi buttons".
 
 ## Licensing:
 
