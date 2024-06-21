@@ -35,6 +35,8 @@ Download includes a Proton friendly version of [UE4SS](https://github.com/UE4SS-
 
 - The kind folks over at the UE4SS Discord, alongside the documentation for UE4SS. Links to those will be in their GitHub repository linked here.
 
+- Everyone who was kind enough to donate, even if it took me a bit to actually approach updating this mod. Especially challenging with the constant barrage of updates from Bandai Namco after the game's release changing memory offsets.
+
 ## Support The Project:
 
 ☕ If you've enjoyed or gotten usage from my work *(keep in mind, I do a majority of this completely for free on my spare time with no donations or compensation)*, please consider supporting my Ko-Fi below:
